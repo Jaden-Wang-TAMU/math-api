@@ -1,0 +1,221 @@
+{
+    "tests": [
+        {
+            "name": "test_square_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_square_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_rectangle_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_rectangle_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_triangle_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_triangle_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_heron",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_heron",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_parallelogram",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_parallelogram",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_circle",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_circle",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_trapezoid_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_trapezoid_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_cube_surface_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_cube_surface_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_sphere_surface_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_shere_surface_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_cylinder_surface_area",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_cylinder_surface_area",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_square_perimeter",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_square_perimeter",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_rectangle_perimeter",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_rectangle_perimeter",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_triangle_perimeter",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_triangle_perimeter",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_circle_circumference",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_circle_circumference",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_cube_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_cube_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_prism_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_prism_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_pyramid_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_pyramid_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_cylinder_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_cylinder_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_sphere_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_sphere_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_cone_volume",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_cone_volume",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_distance_formula",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_distance_formula",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_slope",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_slope",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_pythagorean",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_pythagorean",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }, {
+            "name": "test_average",
+            "setup": "",
+            "run": "pytest test_mathapi.py::Test::test_average",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 10,
+            "points":1
+        }
+    ]
+}
